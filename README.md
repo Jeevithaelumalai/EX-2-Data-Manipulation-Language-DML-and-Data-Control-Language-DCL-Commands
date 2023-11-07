@@ -1,4 +1,5 @@
 # EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands
+# DATE : 10/8/2023
 ## AIM:
 To create a mmannager database and execte DML queries using SQL.
 ## DML(Data Manipulation Language)
